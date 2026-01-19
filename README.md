@@ -1,3 +1,4 @@
-```python
-if kindness and happiness == True: 
-    better_world = True
+```c
+if (kindness == true && happiness == true) {
+    better_world = true;
+}
